@@ -1,5 +1,5 @@
-<h1>React JS Tic-Tac-Toe</h1>
-<h2>A simple Tic-Tac-Toe game written in React!</h2>
+<h1>⚛️ React JS Tic-Tac-Toe</h1>
+<h2>A simple Tic-Tac-Toe game written in React and TailwindCSS 🍃</h2>
 
 Features:
 - Modern design
