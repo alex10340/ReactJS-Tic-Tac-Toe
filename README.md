@@ -1,8 +1,11 @@
-# React + Vite
+# React JS Tic-Tac-Toe 
+## A simple Tic-Tac-Toe game written in React!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
+- Modern design
+- Fully responsive, looks great on mobile devices as well as on laptops and desktops
+- Score count: keeps track of X and O's wins
+- Reset and Reset Wins buttons that allow you to play again and start over.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Made with ❤️ by Alexandre S.
